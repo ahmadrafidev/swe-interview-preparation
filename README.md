@@ -14,6 +14,13 @@ In this section, you'll find various DSA problems from LeetCode that I have solv
 
 ### Problems List
 
+1. [Array](./dsa/array/)
+2. [DP](/dsa/dynamic-programming/)
+3. [Graph](./dsa/graph/)
+4. [Queue](./dsa/queue/)
+5. [Stack](./dsa/stack/)
+6. [Tree](./dsa/tree/)
+
 ## System Design
 
 This section contains notes and explanations for various system design topics. Each topic covers the fundamental principles and includes real-world examples to help understand the concepts better.
@@ -25,6 +32,9 @@ This section contains notes and explanations for various system design topics. E
 Here are some of the resources I've found useful in my preparation:
 
 ### Website
+
+1. [Neetcode](https://neetcode.io/)
+2. [Awesome System Design Resources](https://github.com/ashishps1/awesome-system-design-resources)
 
 ### Videos
 

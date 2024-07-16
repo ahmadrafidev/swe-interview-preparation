@@ -35,6 +35,7 @@ Here are some of the resources I've found useful in my preparation:
 
 1. [Neetcode](https://neetcode.io/)
 2. [Awesome System Design Resources](https://github.com/ashishps1/awesome-system-design-resources)
+3. [Great Frontend](https://www.greatfrontend.com/)
 
 ### Videos
 

@@ -4,6 +4,7 @@
 
 1. [2824. Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/)
 2. [2553. Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/description/)
+3. [2678. Number of Senior Citizen](https://leetcode.com/problems/number-of-senior-citizens/description/)
 
 ## Write Ups
 

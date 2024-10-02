@@ -6,6 +6,7 @@
 2. [2553. Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/description/)
 3. [2678. Number of Senior Citizen](https://leetcode.com/problems/number-of-senior-citizens/description/)
 4. [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)
+5. [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/description/)
 
 ## Write Ups
 

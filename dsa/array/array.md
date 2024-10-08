@@ -8,6 +8,7 @@
 4. [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)
 5. [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/description/)
 6. [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/description/)
+7. [1518. Water Bottles](https://leetcode.com/problems/water-bottles/description/)
 
 ## Write Ups
 

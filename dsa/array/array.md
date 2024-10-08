@@ -7,6 +7,7 @@
 3. [2678. Number of Senior Citizen](https://leetcode.com/problems/number-of-senior-citizens/description/)
 4. [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)
 5. [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/description/)
+6. [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/description/)
 
 ## Write Ups
 

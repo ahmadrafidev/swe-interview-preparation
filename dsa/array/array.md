@@ -10,6 +10,7 @@
 6. [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/description/)
 7. [1518. Water Bottles](https://leetcode.com/problems/water-bottles/description/)
 8. [2418. Sort the People](https://leetcode.com/problems/sort-the-people/description/)
+9. [2053. Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/description/)
 
 ## Write Ups
 

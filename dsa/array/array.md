@@ -11,6 +11,7 @@
 7. [1518. Water Bottles](https://leetcode.com/problems/water-bottles/description/)
 8. [2418. Sort the People](https://leetcode.com/problems/sort-the-people/description/)
 9. [2053. Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/description/)
+10. [2965. Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/description/)
 
 ## Write Ups
 

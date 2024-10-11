@@ -12,6 +12,7 @@
 8. [2418. Sort the People](https://leetcode.com/problems/sort-the-people/description/)
 9. [2053. Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/description/)
 10. [2965. Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/description/)
+11. [2229. Check if an Array Is Consecutive](https://leetcode.com/problems/check-if-an-array-is-consecutive/description/)
 
 ## Write Ups
 

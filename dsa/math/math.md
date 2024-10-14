@@ -8,6 +8,7 @@
 4. [2485. Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/description/)
 5. [2965. Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/description/)
 6. [3024. Type of Triangle](https://leetcode.com/problems/type-of-triangle/description/)
+7. [2652. Sum Multiples](https://leetcode.com/problems/sum-multiples/description/)
 
 ## Write Ups
 

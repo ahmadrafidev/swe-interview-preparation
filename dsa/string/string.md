@@ -8,5 +8,6 @@
 4. [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/)
 5. [3136. Valid Word](https://leetcode.com/problems/valid-word/description/)
 6. [2124. Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/description/)
+7. [2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/description/)
 
 ## Write Ups

@@ -15,6 +15,7 @@
 11. [2229. Check if an Array Is Consecutive](https://leetcode.com/problems/check-if-an-array-is-consecutive/description/)
 12. [2057. Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/description/)
 13. [2404. Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/description/)
+14. [2798. Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/description/)
 
 ## Write Ups
 

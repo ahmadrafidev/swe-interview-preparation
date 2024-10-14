@@ -16,6 +16,7 @@
 12. [2057. Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/description/)
 13. [2404. Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/description/)
 14. [2798. Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/description/)
+15. [2605. Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/description/)
 
 ## Write Ups
 

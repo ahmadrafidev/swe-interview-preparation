@@ -9,5 +9,6 @@
 5. [3136. Valid Word](https://leetcode.com/problems/valid-word/description/)
 6. [2124. Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/description/)
 7. [2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/description/)
+8. [2828. Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/description/)
 
 ## Write Ups

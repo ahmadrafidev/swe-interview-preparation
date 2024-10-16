@@ -18,6 +18,7 @@
 14. [2798. Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/description/)
 15. [2605. Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/description/)
 16. [1436. Destination City](https://leetcode.com/problems/destination-city/description/)
+17. [2540. Minimum Common Value](https://leetcode.com/problems/minimum-common-value/description/)
 
 ## Write Ups
 

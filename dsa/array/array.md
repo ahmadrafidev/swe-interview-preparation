@@ -21,6 +21,7 @@
 17. [2540. Minimum Common Value](https://leetcode.com/problems/minimum-common-value/description/)
 18. [2956. Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/description/)
 19. [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
+20. [2733. Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/description/)
 
 ## Write Ups
 

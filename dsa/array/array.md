@@ -22,6 +22,7 @@
 18. [2956. Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/description/)
 19. [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
 20. [2733. Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/description/)
+21. [1619. Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/submissions/1426320716/)
 
 ## Write Ups
 

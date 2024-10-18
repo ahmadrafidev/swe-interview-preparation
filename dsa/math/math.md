@@ -9,6 +9,7 @@
 5. [2965. Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/description/)
 6. [3024. Type of Triangle](https://leetcode.com/problems/type-of-triangle/description/)
 7. [2652. Sum Multiples](https://leetcode.com/problems/sum-multiples/description/)
+8. [2427. Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/description/)
 
 ## Write Ups
 

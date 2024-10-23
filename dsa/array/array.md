@@ -23,6 +23,7 @@
 19. [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
 20. [2733. Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/description/)
 21. [1619. Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/submissions/1426320716/)
+22. [2535. Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)
 
 ## Write Ups
 

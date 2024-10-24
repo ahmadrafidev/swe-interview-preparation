@@ -12,6 +12,7 @@
 8. [2427. Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/description/)
 9. [2535. Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)
 10. [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/)
+11. [2894. Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/)
 
 ## Write Ups
 
